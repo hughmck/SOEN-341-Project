@@ -35,6 +35,16 @@ const Navbar = () => {
 							Signup
 						</a>
 					</li>
+					<li className='nav-item'>
+						<a className='nav-link' href='/signup'>
+							Checkout
+						</a>
+					</li>
+					<li className='nav-item'>
+						<a className='nav-link' href='/signup'>
+							Cart
+						</a>
+					</li>
 				</ul>
 			</div>
 
